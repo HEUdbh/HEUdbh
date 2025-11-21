@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com/?lines=个人简介;&center=false&width=1000&height=50&size=32&font=Righteous"/>  👋<a href="https://github.com/HEUdbh/"><img align="right" src="https://komarev.com/ghpvc/?username=HEUdbh&label=Views"></a>
+### 个人资料  👋<a href="https://github.com/HEUdbh/"><img align="right" src="https://komarev.com/ghpvc/?username=HEUdbh&label=Views"></a>
 -  [哈尔滨工程大学](http://www.hrbeu.edu.cn/)**本科信息安全**(2024.9~2028.6)
 -  目前主要在学习[Golang](https://go.dev/)、[Android](https://www.android.com/)逆向、Windows逆向、Web安全
 - 联系我：[heuxry@outlook.com](mailto:heuxry@outlook.com)
