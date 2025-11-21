@@ -1,6 +1,7 @@
 ### 个人资料  👋<a href="https://github.com/HEUdbh/"><img align="right" src="https://komarev.com/ghpvc/?username=HEUdbh&label=Views"></a>
 -  [哈尔滨工程大学](http://www.hrbeu.edu.cn/)**本科信息安全**(2024.9~2028.6)
 -  目前主要在学习[Golang](https://go.dev/)、[Android](https://www.android.com/)逆向、Windows逆向、Web安全
+-  运营微信公众号：夜天炫安全，哔哩哔哩账号：[夜天炫安全]( https://b23.tv/Swvv8Ko)，[个人博客](https://web.hqs.qzz.io/)
 - 联系我：[heuxry@outlook.com](mailto:heuxry@outlook.com)
 ### 信息
 <table align="center">
