@@ -19,27 +19,6 @@
     </tr>
 </table>
 
-### 推荐项目
-
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/WerWolv/ImHex">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=WerWolv&repo=ImHex&show_owner=true">
-            </a>
-          </picture>
-        </td>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/HEUdbh/HEU-Wisedu">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=HEUdbh&repo=HEU-Wisedu&show_owner=true">
-            </a>
-          </picture>
-        </td>
-    </tr>
-</table>
-
 ### 语言、框架、工具
 
 <p align="center">
